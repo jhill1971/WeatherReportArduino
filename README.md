@@ -12,3 +12,7 @@
 ### Firebase_Arduino_WiFiNINA Library: Library for interfacing Arduino with Firebase.
 ### Firebase_TCP_Client Library: Library for handling TCP connections with Firebase.
 ### WCS Library: Library for handling sensor data.
+
+
+https://github.com/jhill1971/WeatherReportArduino/assets/60713038/57be00dc-66f8-4a28-b51e-77d493c1286d
+
